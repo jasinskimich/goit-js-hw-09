@@ -1,0 +1,19 @@
+.field {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .timer {
+    display: flex;
+    align-content: center;
+    gap: 17px;
+  }
+  .value {
+    font-size: 43px;
+    font-weight: 300;
+  }
+  .label {
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 500;
+  }
